@@ -75,6 +75,10 @@ Users can dynamically filter data using:
 
 ---
 
+## Dashboard Screenshot
+
+![Dashboard Screenshot](Dashboard%20SC01.jpg)
+
 ## 🛠 Tools & Technologies Used
 
 - **Microsoft Power BI**
