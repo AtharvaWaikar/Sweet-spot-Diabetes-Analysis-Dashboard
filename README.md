@@ -1,3 +1,10 @@
+Portfolio :- 
+---
+Linkedln:- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github:- https://github.com/AtharvaWaikar
+---
+
 # 🩺 Diabetic Risk Analysis Dashboard (Power BI)
 
 > An interactive healthcare analytics dashboard built using Microsoft Power BI to assess diabetic risk using key medical indicators.
